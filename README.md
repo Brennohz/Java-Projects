@@ -2,9 +2,6 @@
 
 ## ☕ Atividades e Exercícios de Java
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
-
 Repositório dedicado ao armazenamento, organização e versionamento dos exercícios e projetos desenvolvidos em Java.
 
 ---
